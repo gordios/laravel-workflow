@@ -4,9 +4,9 @@
     "keywords": ["workflow", "symfony", "laravel", "laravel5", "laravel6", "laravel8"],
     "license": "MIT",
     "require": {
-        "php": ">=5.5.9",
-        "symfony/workflow": "^3.3 || ^4.0",
-        "symfony/process": "^3.3 || ^4.0",
+        "php": ">=7.3",
+        "symfony/workflow": "^5.1",
+        "symfony/process": "^5.1",
         "symfony/event-dispatcher": "^3.3 || ^4.0",
         "illuminate/console": "5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.* || 5.8.* || 6.* || 8.*",
         "illuminate/support": "5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.* || 5.8.* || 6.* || 8.*"
